@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="logo">Logo</string>
+    <string name="Register">Register</string>
+    <string name="loginButton">Login</string>
+    <string name="password">Password</string>
+    <string name="username">UserName/Email ID</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="gender">Gender</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="address">Address</string>
+    <string name="state">State</string>
+    <string name="accept_terms_and_conditions">Accept Terms and Conditions</string>
+    <string name="submit">Submit</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="welcomeMessage">Welcome ! You have successfully Loged in.</string>
+    <string name="invalid_name">Please Enter First Name</string>
+    <string name="info">Settings</string>
+    <string name="help">About</string>
+    <string name="settings">Quit</string>
+    <string name="age_validation_error">Please enter a valid age</string>
+    <string name="paswword_error">Password must be matched</string>
+    <string name="about">About</string>
+    <string name="about_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu erat tincidunt lacus fermentum rutrum.</string>
+    <string name="about_ok">OK</string>
+    <string-array name="States">
+        <item>Uttar Pradesh</item>
+        <item>Karnataka</item>
+        <item>Haryana</item>
+        <item>Assam</item>
+        <item>Tamil Nadu</item>
+        <item>Maharashtra</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lv_phone">Phone</string>
+    <string name="lv_name">Name</string>
+    <string name="list_view_image">list_view_image</string>
+    <string name="search_dealer_info">Search Dealer Info</string>
+    <string name="area">Area:</string>
+    <string name="date_from">Date From:</string>
+    <string name="date_to">Date To:</string>
+    <string name="enter_area">Enter Area</string>
+    <string name="enter_date_from">Enter Date</string>
+    <string name="enter_date_to">Enter Date</string>
+    <string name="submit_button">Submit</string>
+    <string name="menu_details">Details</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="opening_brace">(</string>
+    <string name="closing_brace">)</string>
+    <string name="Clear">C</string>
+    <string name="number_7">7</string>
+    <string name="number_8">8</string>
+    <string name="number_9">9</string>
+    <string name="number_4">4</string>
+    <string name="number_5">5</string>
+    <string name="number_6">6</string>
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="number_0">0</string>
+    <string name="equal_symbol">=</string>
+    <string name="dot_symbol">.</string>
+    <string name="plus_symbol">+</string>
+    <string name="minus_symbol">-</string>
+    <string name="multiply_symbol">*</string>
+    <string name="division_symbol">/</string>
+</resources>
